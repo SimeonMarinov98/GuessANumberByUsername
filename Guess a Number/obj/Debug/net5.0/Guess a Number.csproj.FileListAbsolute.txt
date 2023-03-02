@@ -1,0 +1,16 @@
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\bin\Debug\net5.0\Guess a Number.exe
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\bin\Debug\net5.0\Guess a Number.deps.json
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\bin\Debug\net5.0\Guess a Number.runtimeconfig.json
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\bin\Debug\net5.0\Guess a Number.runtimeconfig.dev.json
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\bin\Debug\net5.0\Guess a Number.dll
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\bin\Debug\net5.0\Guess a Number.pdb
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.csproj.AssemblyReference.cache
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.AssemblyInfoInputs.cache
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.AssemblyInfo.cs
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.csproj.CoreCompileInputs.cache
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.dll
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\refint\Guess a Number.dll
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.pdb
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\Guess a Number.genruntimeconfig.cache
+C:\Users\Симо\source\repos\Guess a Number\Guess a Number\obj\Debug\net5.0\ref\Guess a Number.dll
